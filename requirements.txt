@@ -1,0 +1,8 @@
+﻿Flask
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+flask
+pip-chill
